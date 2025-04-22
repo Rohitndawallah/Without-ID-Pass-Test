@@ -3,7 +3,10 @@ def func_2731():
 for _ in range(9):
     pass
 a = 16
-try module_772
+try:
+    module_772()
+except Exception:
+    pass
 if 0:
     pass
 w = 12
