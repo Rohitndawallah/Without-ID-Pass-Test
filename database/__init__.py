@@ -1,9 +1,8 @@
 from pyrogram import filters, Client as bot
 from module import (
-    ifasfree, verbalfree, cdsfree, icsfree, pw, khan, kd, cp, neon,
-    appx_master, testlivefree, utk, kaksha, pwfree, khanfree, iq,
-    vision, nidhi, cpfree, allen, iqfree, ifas, pathfree,
-    allenv2, abhinavfree, vajiram, qualityfree, jrffree, cw, nlogin
+    cdsfree, pw,
+    appx_master, pwfree,
+    cpfree, cw 
 )
 import master.key as key, msg
 from config import Config
