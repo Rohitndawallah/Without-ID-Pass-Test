@@ -1,8 +1,6 @@
 from pyrogram import filters, Client as bot
 from module import (
-    cdsfree, pw,
-    appx_master, pwfree,
-    cpfree, cw 
+    appx_master, pwfree
 )
 import master.key as key, msg
 from config import Config
